@@ -1,0 +1,71 @@
+C:\Users\mgebo\source\repos\Tri_v_Ryad\Tri_v_Ryad\bin\Debug\Tri_v_Ryad.exe.config
+C:\Users\mgebo\source\repos\Tri_v_Ryad\Tri_v_Ryad\bin\Debug\Tri_v_Ryad.exe
+C:\Users\mgebo\source\repos\Tri_v_Ryad\Tri_v_Ryad\bin\Debug\Tri_v_Ryad.pdb
+C:\Users\mgebo\source\repos\Tri_v_Ryad\Tri_v_Ryad\obj\Debug\Tri_v_Ryad.csprojAssemblyReference.cache
+C:\Users\mgebo\source\repos\Tri_v_Ryad\Tri_v_Ryad\obj\Debug\MainWindow.g.cs
+C:\Users\mgebo\source\repos\Tri_v_Ryad\Tri_v_Ryad\obj\Debug\App.g.cs
+C:\Users\mgebo\source\repos\Tri_v_Ryad\Tri_v_Ryad\obj\Debug\Tri_v_Ryad_MarkupCompile.cache
+C:\Users\mgebo\source\repos\Tri_v_Ryad\Tri_v_Ryad\obj\Debug\Tri_v_Ryad_MarkupCompile.lref
+C:\Users\mgebo\source\repos\Tri_v_Ryad\Tri_v_Ryad\obj\Debug\MainWindow.baml
+C:\Users\mgebo\source\repos\Tri_v_Ryad\Tri_v_Ryad\obj\Debug\Tri_v_Ryad.g.resources
+C:\Users\mgebo\source\repos\Tri_v_Ryad\Tri_v_Ryad\obj\Debug\Tri_v_Ryad.Properties.Resources.resources
+C:\Users\mgebo\source\repos\Tri_v_Ryad\Tri_v_Ryad\obj\Debug\Tri_v_Ryad.csproj.GenerateResource.cache
+C:\Users\mgebo\source\repos\Tri_v_Ryad\Tri_v_Ryad\obj\Debug\Tri_v_Ryad.csproj.CoreCompileInputs.cache
+C:\Users\mgebo\source\repos\Tri_v_Ryad\Tri_v_Ryad\obj\Debug\Tri_v_Ryad.exe
+C:\Users\mgebo\source\repos\Tri_v_Ryad\Tri_v_Ryad\obj\Debug\Tri_v_Ryad.pdb
+C:\Users\mgebo\OneDrive\Рабочий стол\tri_v_rayd-main\Tri_v_Ryad\bin\Debug\Tri_v_Ryad.exe.config
+C:\Users\mgebo\OneDrive\Рабочий стол\tri_v_rayd-main\Tri_v_Ryad\bin\Debug\Tri_v_Ryad.exe
+C:\Users\mgebo\OneDrive\Рабочий стол\tri_v_rayd-main\Tri_v_Ryad\bin\Debug\Tri_v_Ryad.pdb
+C:\Users\mgebo\OneDrive\Рабочий стол\tri_v_rayd-main\Tri_v_Ryad\obj\Debug\MainWindow.g.cs
+C:\Users\mgebo\OneDrive\Рабочий стол\tri_v_rayd-main\Tri_v_Ryad\obj\Debug\App.g.cs
+C:\Users\mgebo\OneDrive\Рабочий стол\tri_v_rayd-main\Tri_v_Ryad\obj\Debug\Tri_v_Ryad_MarkupCompile.cache
+C:\Users\mgebo\OneDrive\Рабочий стол\tri_v_rayd-main\Tri_v_Ryad\obj\Debug\Tri_v_Ryad_MarkupCompile.lref
+C:\Users\mgebo\OneDrive\Рабочий стол\tri_v_rayd-main\Tri_v_Ryad\obj\Debug\MainWindow.baml
+C:\Users\mgebo\OneDrive\Рабочий стол\tri_v_rayd-main\Tri_v_Ryad\obj\Debug\Tri_v_Ryad.g.resources
+C:\Users\mgebo\OneDrive\Рабочий стол\tri_v_rayd-main\Tri_v_Ryad\obj\Debug\Tri_v_Ryad.Properties.Resources.resources
+C:\Users\mgebo\OneDrive\Рабочий стол\tri_v_rayd-main\Tri_v_Ryad\obj\Debug\Tri_v_Ryad.csproj.GenerateResource.cache
+C:\Users\mgebo\OneDrive\Рабочий стол\tri_v_rayd-main\Tri_v_Ryad\obj\Debug\Tri_v_Ryad.csproj.CoreCompileInputs.cache
+C:\Users\mgebo\OneDrive\Рабочий стол\tri_v_rayd-main\Tri_v_Ryad\obj\Debug\Tri_v_Ryad.exe
+C:\Users\mgebo\OneDrive\Рабочий стол\tri_v_rayd-main\Tri_v_Ryad\obj\Debug\Tri_v_Ryad.pdb
+C:\Users\mgebo\OneDrive\Рабочий стол\tri_v_rayd-main\Tri_v_Ryad\obj\Debug\NameAdd.g.cs
+C:\Users\mgebo\OneDrive\Рабочий стол\tri_v_rayd-main\Tri_v_Ryad\obj\Debug\NameAdd.baml
+C:\Users\mgebo\OneDrive\Рабочий стол\tri_v_rayd-main\Tri_v_Ryad\bin\Debug\EntityFramework.dll
+C:\Users\mgebo\OneDrive\Рабочий стол\tri_v_rayd-main\Tri_v_Ryad\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mgebo\OneDrive\Рабочий стол\tri_v_rayd-main\Tri_v_Ryad\bin\Debug\System.Data.SQLite.dll
+C:\Users\mgebo\OneDrive\Рабочий стол\tri_v_rayd-main\Tri_v_Ryad\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\mgebo\OneDrive\Рабочий стол\tri_v_rayd-main\Tri_v_Ryad\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\mgebo\OneDrive\Рабочий стол\tri_v_rayd-main\Tri_v_Ryad\bin\Debug\EntityFramework.xml
+C:\Users\mgebo\OneDrive\Рабочий стол\tri_v_rayd-main\Tri_v_Ryad\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mgebo\OneDrive\Рабочий стол\tri_v_rayd-main\Tri_v_Ryad\bin\Debug\System.Data.SQLite.xml
+C:\Users\mgebo\OneDrive\Рабочий стол\tri_v_rayd-main\Tri_v_Ryad\obj\Debug\Tri_v_Ryad.csproj.CopyComplete
+C:\Users\mgebo\OneDrive\Рабочий стол\tri_v_rayd-main\Tri_v_Ryad\obj\Debug\Tri_v_Ryad.csprojAssemblyReference.cache
+C:\Users\mgebo\OneDrive\Рабочий стол\tri_v_rayd-main\Tri_v_Ryad\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mgebo\OneDrive\Рабочий стол\tri_v_rayd-main\Tri_v_Ryad\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mgebo\OneDrive\Рабочий стол\tri_v_rayd\Tri_v_Ryad\bin\Debug\Tri_v_Ryad.exe.config
+C:\Users\mgebo\OneDrive\Рабочий стол\tri_v_rayd\Tri_v_Ryad\bin\Debug\Tri_v_Ryad.exe
+C:\Users\mgebo\OneDrive\Рабочий стол\tri_v_rayd\Tri_v_Ryad\bin\Debug\Tri_v_Ryad.pdb
+C:\Users\mgebo\OneDrive\Рабочий стол\tri_v_rayd\Tri_v_Ryad\bin\Debug\EntityFramework.dll
+C:\Users\mgebo\OneDrive\Рабочий стол\tri_v_rayd\Tri_v_Ryad\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mgebo\OneDrive\Рабочий стол\tri_v_rayd\Tri_v_Ryad\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mgebo\OneDrive\Рабочий стол\tri_v_rayd\Tri_v_Ryad\bin\Debug\System.Data.SQLite.dll
+C:\Users\mgebo\OneDrive\Рабочий стол\tri_v_rayd\Tri_v_Ryad\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\mgebo\OneDrive\Рабочий стол\tri_v_rayd\Tri_v_Ryad\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\mgebo\OneDrive\Рабочий стол\tri_v_rayd\Tri_v_Ryad\bin\Debug\EntityFramework.xml
+C:\Users\mgebo\OneDrive\Рабочий стол\tri_v_rayd\Tri_v_Ryad\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mgebo\OneDrive\Рабочий стол\tri_v_rayd\Tri_v_Ryad\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mgebo\OneDrive\Рабочий стол\tri_v_rayd\Tri_v_Ryad\bin\Debug\System.Data.SQLite.xml
+C:\Users\mgebo\OneDrive\Рабочий стол\tri_v_rayd\Tri_v_Ryad\obj\Debug\Tri_v_Ryad.csprojAssemblyReference.cache
+C:\Users\mgebo\OneDrive\Рабочий стол\tri_v_rayd\Tri_v_Ryad\obj\Debug\MainWindow.g.cs
+C:\Users\mgebo\OneDrive\Рабочий стол\tri_v_rayd\Tri_v_Ryad\obj\Debug\NameAdd.g.cs
+C:\Users\mgebo\OneDrive\Рабочий стол\tri_v_rayd\Tri_v_Ryad\obj\Debug\App.g.cs
+C:\Users\mgebo\OneDrive\Рабочий стол\tri_v_rayd\Tri_v_Ryad\obj\Debug\Tri_v_Ryad_MarkupCompile.cache
+C:\Users\mgebo\OneDrive\Рабочий стол\tri_v_rayd\Tri_v_Ryad\obj\Debug\Tri_v_Ryad_MarkupCompile.lref
+C:\Users\mgebo\OneDrive\Рабочий стол\tri_v_rayd\Tri_v_Ryad\obj\Debug\MainWindow.baml
+C:\Users\mgebo\OneDrive\Рабочий стол\tri_v_rayd\Tri_v_Ryad\obj\Debug\NameAdd.baml
+C:\Users\mgebo\OneDrive\Рабочий стол\tri_v_rayd\Tri_v_Ryad\obj\Debug\Tri_v_Ryad.g.resources
+C:\Users\mgebo\OneDrive\Рабочий стол\tri_v_rayd\Tri_v_Ryad\obj\Debug\Tri_v_Ryad.Properties.Resources.resources
+C:\Users\mgebo\OneDrive\Рабочий стол\tri_v_rayd\Tri_v_Ryad\obj\Debug\Tri_v_Ryad.csproj.GenerateResource.cache
+C:\Users\mgebo\OneDrive\Рабочий стол\tri_v_rayd\Tri_v_Ryad\obj\Debug\Tri_v_Ryad.csproj.CoreCompileInputs.cache
+C:\Users\mgebo\OneDrive\Рабочий стол\tri_v_rayd\Tri_v_Ryad\obj\Debug\Tri_v_Ryad.csproj.CopyComplete
+C:\Users\mgebo\OneDrive\Рабочий стол\tri_v_rayd\Tri_v_Ryad\obj\Debug\Tri_v_Ryad.exe
+C:\Users\mgebo\OneDrive\Рабочий стол\tri_v_rayd\Tri_v_Ryad\obj\Debug\Tri_v_Ryad.pdb
