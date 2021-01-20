@@ -173,7 +173,7 @@ namespace Tri_v_Ryad
                 records.Items.Add(igr.name + ":     " + igr.score);
                 PlayerName.Content = igr.name;
                 finscore.Content = igr.score;
-                itog1.Content = "Перед запуском новой игрой";
+                itog1.Content = "Перед запуском новой игры";
                 itog2.Content = "сохраните таблицу!";
             }
 
